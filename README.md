@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola👋
 
 <!--
 **matiasrj/matiasrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola,
 Bienvenid@ a mi perfil, aquípodrás ver mi info y algunos de los desarrollos y soluciones que logré implementar, 
 
 - 🔭 Actualmente trabajando en:  https://ecodj.herokuapp.com/
