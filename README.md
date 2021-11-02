@@ -23,7 +23,7 @@ Bienvenid@ a mi perfil, aquí podrás ver mi info y algunos de los desarrollos y
 - 🌱 Aprendiendo sobre : Stack MERN de la mano de Digital House
 
  - Tambien tengo experiencia sobre desarrollos a medida, entre ellos:
-   * Registros y Control Real Time interactuando con Hardware para procesos insdustriales,
+   * Registros y Control Real Time interactuando con Hardware para procesos industriales,
    * Instrumentacion Industrial.
    * Optimización de procesos.
 
