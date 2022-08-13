@@ -21,12 +21,13 @@ Bienvenid@ a mi perfil, aquí podrás ver mi info y algunos de los desarrollos y
     * Inipop .  https://www.inipay.co/ ( Backend Developer )
     * https://ecom-mc.herokuapp.com/     (usuario :   CustomUser  , password: CustomUser01)
     * https://matiasrj.github.io/miPerfil/   (En desarrollo...)
-- 🌱 Aprendiendo sobre : Stack MERN de la mano de Digital House
+- 🌱 Aprendiendo sobre : Stack MERN de la mano de Digital House (Finalizado)
 
  - Tambien tengo experiencia sobre desarrollos a medida, entre ellos:
    * Registros y Control Real Time interactuando con Hardware para procesos industriales,
    * Instrumentacion Industrial.
    * Optimización de procesos.
+   (Muestras o Demos por privado)
 
 
 
