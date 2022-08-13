@@ -27,7 +27,8 @@ Bienvenid@ a mi perfil, aquí podrás ver mi info y algunos de los desarrollos y
    * Registros y Control Real Time interactuando con Hardware para procesos industriales,
    * Instrumentacion Industrial.
    * Optimización de procesos.
-   (Muestras o Demos por privado)
+
+   * (Muestras o Demos por privado)
 
 
 
